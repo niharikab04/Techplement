@@ -18,7 +18,7 @@ A simple chat room application where anyone can see the chat but can only send m
 
 - Messaging: Sending messages is allowed only if the user is logged in.
 - Theme: Users can switch between dark and light theme
-   -Message Card Design
+   - Message Card Design
 
     Each message card will display:
 
