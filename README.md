@@ -21,9 +21,8 @@ A simple chat room application where anyone can see the chat but can only send m
    - Message Card Design
 
     Each message card will display:
-
-    Username: The name of the user who sent the message.</br>
     Avatar: An avatar containing the first letter of the username.</br>
+    Username: The name of the user who sent the message.</br>
     Time and Date: The time and date when the message was sent.</br>
     Message Content: The actual message text.
 
