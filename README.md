@@ -16,11 +16,11 @@ A simple chat room application where anyone can see the chat but can only send m
 
 ## Features
 
--Messaging: Sending messages is allowed only if the user is logged in.
--Theme: Users can switch between dark and light theme
-*Message Card Design
+- Messaging: Sending messages is allowed only if the user is logged in.
+- Theme: Users can switch between dark and light theme
+   -Message Card Design
 
-Each message card will display:
+    Each message card will display:
 
     Username: The name of the user who sent the message.
     Avatar: An avatar containing the first letter of the username.
