@@ -8,11 +8,12 @@ A simple chat room
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
+- [View](#view)
 - [Future Enhancements](#future-enhancements)
 
 
 ## Project description
-A simple common chat room application where any authenticated user can engage in chat.
+A simple common chat room application where any authenticated user can engage in chat across all devices.
 
 ## Features
 
@@ -121,6 +122,12 @@ First, create the environment variables file `.env` in the server folder. The `.
 
 5. **Logging Out**:
    - When you're done using the application, click on the "Logout" button to securely log out of your account.
+
+## View
+# <img src="./client/chatty/src/images/dark.png" alt="dark" width="80" height="100" > 
+# <img src="./client/chatty/src/images/light.png" alt="light" width="80" height="100" > 
+
+
 
 ## Future Enhancements
 
