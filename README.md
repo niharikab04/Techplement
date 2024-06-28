@@ -12,10 +12,11 @@ A simple chat room
 
 
 ## Project description
-A simple chat room application where anyone can see the chat but can only send messages if logged in.
+A simple common chat room application where any authenticated user can engage in chat.
 
 ## Features
 
+- User Authentication: Users can securely sign up and login to the application using JWT-based authentication.
 - Messaging: Sending messages is allowed only if the user is logged in.
 - Theme: Users can switch between dark and light theme
    - Message Card Design
@@ -111,12 +112,12 @@ First, create the environment variables file `.env` in the server folder. The `.
    - Enter your username and password.
 
 3. **Logging In**:
-   - Once registered, click on the "Login" button.
+   - click on the "Login" button if you have an account.
    - Enter your registered username and password.
 
-4. **Exploring Content**:
+4. **Chat room**:
    - After logging in, you will see a chatroom.
-   -You can now send a message.
+   - You can now send a message.
 
 5. **Logging Out**:
    - When you're done using the application, click on the "Logout" button to securely log out of your account.
